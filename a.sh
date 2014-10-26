@@ -1,5 +1,5 @@
 #!/bin/bash
-logfile=${Test1}.log
+logfile=/home/slave?/jenkins/workspace/${Test1}.log
 
 {
 echo $(date +%T) "- Delete" 
