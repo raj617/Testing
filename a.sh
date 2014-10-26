@@ -1,5 +1,5 @@
 #!/bin/bash
-logfile=./script.log
+logfile=~/${Test1}.log
 
 {
 echo $(date +%T) "- Delete" 
